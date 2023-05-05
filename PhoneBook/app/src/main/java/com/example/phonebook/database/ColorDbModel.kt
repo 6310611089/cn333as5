@@ -17,7 +17,7 @@ data class ColorDbModel(
             ColorDbModel(3, "#CE93D8", "work"),
             ColorDbModel(4, "#FF9800", "school"),
             ColorDbModel(5, "#FFEB3B", "iPhone"),
-            ColorDbModel(6, "#FF9800", "Apple Watch"),
+            ColorDbModel(6, "#9E9E9E", "Apple Watch"),
             ColorDbModel(7, "#BCAAA4", "fax"),
             ColorDbModel(8, "#FFFFFF", "Other"),
         )
